@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
     strings: [
       "Tech Tutor.",
       "DevOps Engineer.",
-      "Full Stack Software Engineer.",
+      "Architechtuer.",
       "UI/UX Designer.",
     ],
     typeSpeed: 60,
